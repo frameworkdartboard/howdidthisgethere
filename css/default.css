@@ -1,4 +1,6 @@
-BODY {
+BODY
+{
   font-family: sans-serif;
-  font: large Helvetica, Tahoma, sans-serif;
+  font: large Helvetica, Arial, sans-serif;
 }
+H1 { margin: 5px; }
