@@ -9,5 +9,5 @@ TABLE
   border-width: 1px;
   border-color: 0000cc;
 }
-TH { background-color: 3333cc;}
-TD { background-color: 333399;}
+TH { background-color: 9999ff; margin: 5px; }
+TD { background-color: 9999ee; margin: 5px; }
