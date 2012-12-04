@@ -3,4 +3,11 @@ BODY
   font-family: sans-serif;
   font: large Helvetica, Arial, sans-serif;
 }
-H1 { margin: 5px; }
+H1 { margin: 10px; }
+TABLE
+{
+  border-width: 1px;
+  border-color: 0000cc;
+}
+TH { background-color: 3333cc;}
+TD { background-color: 333399;}
