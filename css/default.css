@@ -5,10 +5,13 @@ BODY
   margin-left: 25px;
   margin-top: 15px;
 }
+
 TABLE
 {
   border-width: 1px;
   border-color: 0000cc;
 }
+
 TH { background-color: 9999ff; padding: 7px; }
 TD { background-color: 9999ee; padding: 7px; }
+
